@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\MyStuff\\TensorFlowMaterial\\tflearn_text_classification_example\\text_classification\\model\\model.tflearn"
+all_model_checkpoint_paths: "C:\\MyStuff\\TensorFlowMaterial\\tflearn_text_classification_example\\text_classification\\model\\model.tflearn"
