@@ -119,3 +119,6 @@ def test_text(file, model, categories, words):
         print (line)
         print(categories[np.argmax(model.predict([get_tf_record(line, stemmer, words)]))])
         print ("--------------------------")
+
+def get_number_classes(trainY):
+    return set(trainY).__len__()
